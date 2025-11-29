@@ -4,16 +4,14 @@
 
 - 📫 How to reach me **honzqqq@proton.me**
 
-  ### What I'm working on 🚀
-  - Learning Python from the ground up  
-  - Building strong logic and algorithm fundamentals  
-  - Learning HTML & CSS
+### 💡 Focus Areas
+- Frontend development
+- Basic backend concepts
 
-  ### Interests 💡
-  - Frontend development  
-  - Backend basics (Python,...)
-  - Creating meaningful projects  
-  - Continuous self-improvement
+### 🌱 I'm Currently Learning
+- Advanced HTML & CSS techniques  
+- Basic JavaScript fundamentals  
+- Simple web project workflows
 
 - ⚡ Fun fact **Curious mind**
 
